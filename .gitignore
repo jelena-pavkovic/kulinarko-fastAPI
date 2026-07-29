@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment varijable (ako imaš fajl sa lozinkama za bazu)
+.env
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
